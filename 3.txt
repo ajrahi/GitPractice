@@ -1,1 +1,2 @@
-Then we will practice creating branches in git
+This is a revised text.
+t
